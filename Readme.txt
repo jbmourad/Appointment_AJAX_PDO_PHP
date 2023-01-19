@@ -1,9 +1,11 @@
 Author: Mourad Jebouai
 Author Email: mouradjebouai@gmail.com
 v1.0
-janvier 2023
+January 2023
 
+Appointment with AJAX PDO and PHP:
 Making an appointment for a specific date
+
 -Integration of jQuery-UI - datepicker for calendar management
 -Ability to integrate holidays
 -Disabling the selection of weekends
